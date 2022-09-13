@@ -2,7 +2,7 @@
 #### 👋 Hola!! Welcome!!! 👋
 
 ---
-I'm Abel Trejo, a passionate QA engineer with solid experience in FrontEnd and Backend automation with a bit of mobile, performance and security testing, love DevOps too!!! :)__
+I'm Abel Trejo, a passionate QA engineer with solid experience in FrontEnd and Backend automation with a bit of mobile, performance and security testing, love DevOps too!!! 😁
 
 __Personal repositories :)__
 
