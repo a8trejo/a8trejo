@@ -10,6 +10,7 @@ __Personal repositories :)__
 - __[cypress-utils](https://github.com/a8trejo/cypress-utils)__ - Miscellaneous common practices with cypress.
 - __[appium-wdio-cypress-demo](https://github.com/a8trejo/appium-wdio-cypress-demo)__ - A POC using cypress to controll WDIO with appium to mix web and mobile automation.
 - __[github-demo](https://github.com/a8trejo/github-demo)__ - A couple different Github Actions workflows.
+- __[python-bdd-demo](https://github.com/a8trejo/python-bdd-demo)__ - A basic API testing suite with Python and BDD, extra utilities too.
 
 Take a look and reach out!!
 
