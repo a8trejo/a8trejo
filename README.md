@@ -11,6 +11,7 @@ __Personal repositories :)__
 - __[appium-wdio-cypress-demo](https://github.com/a8trejo/appium-wdio-cypress-demo)__ - A POC using cypress to controll WDIO with appium to mix web and mobile automation.
 - __[github-demo](https://github.com/a8trejo/github-demo)__ - A couple different Github Actions workflows.
 - __[python-bdd-demo](https://github.com/a8trejo/python-bdd-demo)__ - A basic API testing suite with Python and BDD, extra utilities too.
+- __[pytest-api-basics](https://github.com/a8trejo/pytest-api-basics)__ - An API testing framework using pytest with python and BDD, using docker to spin up a Wordpress local site.
 
 Take a look and reach out!!
 
